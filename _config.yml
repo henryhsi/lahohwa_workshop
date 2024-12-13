@@ -1,5 +1,8 @@
-theme: minima
+theme: none
 title: LaHohwa's Workshop
 description: LAHohwa's Workshop - Notes on Recipes and Projects
 baseurl: "/lahohwa_workshop"
 url: "https://henryhsi.github.io"
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
