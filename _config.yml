@@ -2,14 +2,8 @@ title: LaHohwa's Workshop
 description: "LaHohwa's Workshop - Notes on Recipes and Projects"
 baseurl: "/lahohwa_workshop"
 url: "https://henryhsi.github.io"
-
-markdown: kramdown
+language: en
+future: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-language: en
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
